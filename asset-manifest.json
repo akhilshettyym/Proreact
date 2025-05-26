@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/Proreact/static/css/main.4e0ac040.css",
-    "main.js": "/Proreact/static/js/main.9018ac30.js",
-    "static/js/488.9c92ff38.chunk.js": "/Proreact/static/js/488.9c92ff38.chunk.js",
-    "index.html": "/Proreact/index.html",
-    "main.4e0ac040.css.map": "/Proreact/static/css/main.4e0ac040.css.map",
-    "main.9018ac30.js.map": "/Proreact/static/js/main.9018ac30.js.map",
-    "488.9c92ff38.chunk.js.map": "/Proreact/static/js/488.9c92ff38.chunk.js.map"
+    "main.css": "/your-repo-name/static/css/main.57948ad9.css",
+    "main.js": "/your-repo-name/static/js/main.da96e08f.js",
+    "index.html": "/your-repo-name/index.html",
+    "main.57948ad9.css.map": "/your-repo-name/static/css/main.57948ad9.css.map",
+    "main.da96e08f.js.map": "/your-repo-name/static/js/main.da96e08f.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e0ac040.css",
-    "static/js/main.9018ac30.js"
+    "static/css/main.57948ad9.css",
+    "static/js/main.da96e08f.js"
   ]
 }
